@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\syedm\source\repos\Project9\Project9\Header.h(189,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\syedm\source\repos\Project9\Project9\MyForm.h(563,11): warning C4101: 'ssname': unreferenced local variable
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project9.vcxproj -> C:\Users\syedm\source\repos\Project9\Debug\Project9.exe

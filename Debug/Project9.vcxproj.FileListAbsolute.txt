@@ -1,0 +1,4 @@
+C:\Users\syedm\source\repos\Project9\Project9\Debug\Project9.MyForm.resources
+C:\Users\syedm\source\repos\Project9\Project9\Debug\Project9.vcxproj.GenerateResource.cache
+C:\Users\syedm\source\repos\Project9\Project9\Debug\Project9.vcxprojAssemblyReference.cache
+C:\Users\syedm\source\repos\Project9\Project9\Debug\Project9.About.resources
